@@ -1,0 +1,20 @@
+database:
+  mysql:
+    host: 47.113.220.87 # MySQL 主机地址
+    port: 3306  # MySQL 端口
+    username: root # MySQL 用户名
+    password: 123  # MySQL 密码
+    database: im  # MySQL 数据库名
+
+  mongodb:
+    url: mongodb://47.113.220.87:27017  # MongoDB 地址
+
+cache:
+  redis:
+    host: 47.113.220.87  # Redis 主机地址
+    port: 6379  # Redis 端口
+
+mq:
+  rabbitmq:
+    host: localhost  # RabbitMQ 主机地址
+    port: 5672  # RabbitMQ 端口
