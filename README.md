@@ -12,6 +12,6 @@
 
 1.使用Websocket，json格式进行通信
 
-2.使用mysql储存用户信息，redis储存好友信息，mongodb储存聊天记录，rabbmitmq用作消息队列
+2.使用mysql储存用户信息，redis储存好友信息，mongodb储存聊天记录，rabbitmq用作消息队列
 
 3.服务部署在云服务器上
